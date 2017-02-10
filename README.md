@@ -1,4 +1,5 @@
-# -
+# GYTransitionAnimator---Swift
+
 四种简单的转场动画
 
 圆形扩散
